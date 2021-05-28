@@ -79,6 +79,9 @@ a{
 a:hover {
   color: #EAF6F6;
 }
+.amrita:hover{
+  color:red;
+}
 .middle-container{
   margin: 100px 0 100px 0;
 }
