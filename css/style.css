@@ -132,3 +132,13 @@ p{
    border-radius: 20px;
    text-decoration: none;
 }
+.footer-link{
+  color: #232323;
+}
+.footer-link:hover{
+  color: #b34180;
+}
+.web-link{
+  margin-left: 20px;
+  color: #000;
+}
